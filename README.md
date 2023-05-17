@@ -11,7 +11,6 @@ Senior Design COP 4934 - Group 48
 
 - [Ashley Voglewede](https://github.com/avwede) - Project Manager, Frontend Developer, API Developer
 - [Cathy Chian](https://github.com/CathyChian) - Mobile Developer, API Developer
-- [Chris Herrera](https://github.com/cjherrera1) - API Developer
 - [Conrad Smith](https://github.com/conradsmi) - Backend Developer, DevOps Developer
 - [David Florez](https://github.com/DMFLo) - Frontend Developer, API Developer
 - [Prathik Ramesh](https://github.com/prathik2001) - Mobile Developer, API Developer
